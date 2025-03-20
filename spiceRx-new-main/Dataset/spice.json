@@ -1,0 +1,937 @@
+[
+    {
+        "ncbi_tax_id": 1008370,
+        "scientific_name": "amomum subulatum, amomum subulatum roxb",
+        "common_name": "greater cardamom, nepalese cardamom, hill cardamom, greater indian cardamom, cardamom black"
+    },
+    {
+        "ncbi_tax_id": 105181,
+        "scientific_name": "eletaria cardamomum, amomum cardamomum l, elettaria cardamomum l maton, elettaria cardamom, elettaria cardamomum, amomum cardamomum",
+        "common_name": "cardamons, ceylon cardamom, ceylon cardamoms, cardamom, cardamoms, cardamon"
+    },
+    {
+        "ncbi_tax_id": 108881,
+        "scientific_name": "theobroma grandiflorum willd ex spreng k schum, theobroma grandiflorum",
+        "common_name": "cupuazes, cupuassu, cupuaz, cupuacu, cupuassus, cupu assu, cupu assus, cupuacus"
+    },
+    {
+        "ncbi_tax_id": 110835,
+        "scientific_name": "eragrostis tef",
+        "common_name": "teff grains, teff grain"
+    },
+    {
+        "ncbi_tax_id": 112823,
+        "scientific_name": "pangium edule reinw 1828, pangium edule",
+        "common_name": "rowal, rowals, kluwak trees, kluwak tree"
+    },
+    {
+        "ncbi_tax_id": 113210,
+        "scientific_name": "capsicum pubescens, capsicum pubescens ruiz pav",
+        "common_name": "rocotos, apple chiles, chamburotos, tree peppers, chamburoto, chile caballos, tree pepper, apple chile, rocoto, chile caballo"
+    },
+    {
+        "ncbi_tax_id": 1170222,
+        "scientific_name": "abelmoschus moschatus, abelmoschus moschatus subsp moschatus, abelmoschus moschatus subsp tuberosus span borss waalk, abelmoschus moschatus medik, abelmoschus moschatus subsp tuberosus",
+        "common_name": "gandapura, musk okra, musk mallow"
+    },
+    {
+        "ncbi_tax_id": 119260,
+        "scientific_name": "cinnamon aromaticum, cinnamomum aromaticum nees, cinnamomum cassia nees ex blume, cinnamomum aromaticum, cinnamomum cassia",
+        "common_name": "cassias, chinese cinnamon, chinese cinnamons, cassia barks, cassia bark, cassia"
+    },
+    {
+        "ncbi_tax_id": 119261,
+        "scientific_name": "cinnamomum burmannii f heyneanum nees h w li, cinnamomum burmannii f heyneanum, cinnamomum burmannii nees t nees blume, cinnamomum burmannii",
+        "common_name": "indonesian cassia, indonesian cinnamon, batavia cinnamon"
+    },
+    {
+        "ncbi_tax_id": 121718,
+        "scientific_name": "tilia argentea, tilia tomentosa, tilia tomentosa moench",
+        "common_name": "lime flower, silver lindens, silver linden, lime flowers, silver lime, silver limes"
+    },
+    {
+        "ncbi_tax_id": 124778,
+        "scientific_name": "illicium verum, illicium verum hook f",
+        "common_name": "chinese star anises, star anise, ba jiao hui xians, staranise tree, chinese star anise, staranise trees, star anises, ba jiao hui xian"
+    },
+    {
+        "ncbi_tax_id": 128608,
+        "scientific_name": "cinnamomum zeylanicum blume 1826, cinnamomum zeylanicum, cinnamomum zeilanicum, cinnamomum verum j presl 1825, cinnamomum verum",
+        "common_name": "ceylon cinnamons, cinnamon, ceylon cinnamon trees, cinnamons, ceylon cinnamon, ceylon cinnamon tree"
+    },
+    {
+        "ncbi_tax_id": 129217,
+        "scientific_name": "prunus mahaleb, prunus mahaleb l",
+        "common_name": "mahaleb cherry, mahleb cherry, rock cherry"
+    },
+    {
+        "ncbi_tax_id": 130373,
+        "scientific_name": "macropiper excelsum miq subsp peltatum r o gardner, macropiper excelsum, macropiper excelsum subsp peltatum, macropiper excelsum g forst miq",
+        "common_name": "kawakawa seeds, new zealand pepper tree, pepper tree"
+    },
+    {
+        "ncbi_tax_id": 13055,
+        "scientific_name": "chamerion angustifolium, chamerion angustifolium l holub, chamaenerion angustifolium, chamaenerion angustifolium l scop, chaemerion angustifolium, epilobium angustifolium, epilobium angustifolium l",
+        "common_name": "french willows, great willowherb, great willowherbs, rose bays, fireweeds, willow herbs, french willow, willow herb, rose bay, fireweed"
+    },
+    {
+        "ncbi_tax_id": 1317910,
+        "scientific_name": "xylopia aethiopica, xylopia aethiopica dunal a rich",
+        "common_name": "guinea pepper, grains of selim, large red fingers"
+    },
+    {
+        "ncbi_tax_id": 13216,
+        "scientific_name": "piper nigrum l, piper lampong, piper nigrum",
+        "common_name": "black peppers, black pepper"
+    },
+    {
+        "ncbi_tax_id": 13329,
+        "scientific_name": "achillea millefolium var arenicola a heller nobs, achillea millefolium subsp ceretanica, achillea sudetica, achillea millefolium ssp borealis, achillea millefolium var gigantea, achillea millefolium var lanulosa, achillea millefolium subsp borealis, achillea ceretanica sennen, achillea millefolium var californica, achillea millefolium var puberula, achillea millefolium subsp sudetica opiz oborny, achillea lanulosa var alpicola, achillea millefolium var litoralis ehrend ex nobs, achillea lanulosa nutt, achillea ceretanica, achillea millefolium var arenicola, achillea millefolium subsp ceretanica sennen o bolos vigo, achillea millefolium var millefolium, achillea sudetica opiz, achillea millefolium l, achillea millefolium var pacifica rydb g n jones, achillea millefolium var californica pollard jeps, achillea millefolium var gigantea pollard nobs, achillea millefolium var borealis bong farw, achillea lanulosa, achillea millefolium var alpicola, achillea millefolium var pacifica, achillea lanulosa var alpicola rydb, achillea millefolium var litoralis, achillea borealis, achillea millefolium, achillea millefolium subsp millefolium, achillea millefolium var puberula rydb nobs, achillea millefolium subsp sudetica, achillea millefolium var borealis, achillea lanulosa subsp alpicola, achillea millefolium var lanulosa nutt piper, achillea millefolium var alpicola rydb garrett, achillea borealis bong",
+        "common_name": "western yarrow, california yarrow, boreal yarrow, pacific yarrow, yarrow, giant yarrow, coast yarrow, milfoil"
+    },
+    {
+        "ncbi_tax_id": 13363,
+        "scientific_name": "borago officinalis l, borago officinalis",
+        "common_name": "common borages, borage, common borage, tailworts, tailwort, borages"
+    },
+    {
+        "ncbi_tax_id": 13427,
+        "scientific_name": "cichorium intybus l, cichorium intybus var foliosum, cichorium intybus, cychorium intybus, puna chicory, cichorium intybus var sativum",
+        "common_name": "succory, chicory leaf, witlooves, radicchios, chicories, chicory root, succories, chicory, chickories, chicory leaves, chickory, radicchio, witloof, chicory roots"
+    },
+    {
+        "ncbi_tax_id": 136217,
+        "scientific_name": "curcuma domestica, curcuma longa l, curcuma domestica valeton, curcuma longa",
+        "common_name": "turmerics, turmeric"
+    },
+    {
+        "ncbi_tax_id": 136224,
+        "scientific_name": "curcuma zedoaria christm roscoe, curcuma zedoaria",
+        "common_name": "zedoary, zeodary"
+    },
+    {
+        "ncbi_tax_id": 137456,
+        "scientific_name": "poterium sanguisorba, sanguisorba minor, poterium sanguisorba l, sanguisorba minor scop",
+        "common_name": "salad burnet, small burnet"
+    },
+    {
+        "ncbi_tax_id": 1384207,
+        "scientific_name": "origanum x majoricum, origanum x majoricum cambess, origanum majorana x origanum vulgare",
+        "common_name": "greek oregano, hardy marjoram, culinary origano, italian oreganos, hardy sweet marjoram, hardy marjorams, italian oregano, hardy sweet marjorams, cooking oregano, cooking oreganos, greek oreganos, culinary origanos"
+    },
+    {
+        "ncbi_tax_id": 145700,
+        "scientific_name": "orbignya barbosiana, attalea speciosa, attalea speciosa mart, orbignya barbosiana burret",
+        "common_name": "babasu oil palms, babassus, motacus, motacuchi, babassu palms, motacu, babassu palm, babasu oil palm, babassu, motacuchis"
+    },
+    {
+        "ncbi_tax_id": 157519,
+        "scientific_name": "gaultheria procumbens, gaultheria procumbens l",
+        "common_name": "creeping wintergreen, teaberry, wintergreen, checkerberry, eastern teaberry"
+    },
+    {
+        "ncbi_tax_id": 159030,
+        "scientific_name": "bergera koenigii, murraya koenigii, murraya koenigii l spreng, bergera koenigii l",
+        "common_name": "curry leaf, curry leaf tree"
+    },
+    {
+        "ncbi_tax_id": 16752,
+        "scientific_name": "houttuynia cordata, houttuynia cordata thunb",
+        "common_name": "rainbow plant, fish smelling herb, dokudami, fishwort, houttuynia, swamp pepper, chameleon plant"
+    },
+    {
+        "ncbi_tax_id": 169191,
+        "scientific_name": "schinus terebinthifolia raddi, schinus terebinthifolius, schinus terebinthifolia",
+        "common_name": "pepper brazilian, brazilian peppertree, broad leafed pepper tree"
+    },
+    {
+        "ncbi_tax_id": 169607,
+        "scientific_name": "tagetes minuta l, tagetes minuta",
+        "common_name": "mexican marigold, huacatay, muster john henry"
+    },
+    {
+        "ncbi_tax_id": 170989,
+        "scientific_name": "citrus hystrix, citrus hystrix dc",
+        "common_name": "mauritius papeda, makrut lime, kaffir lime leaves, thai lime, wild lime, kaffir lime"
+    },
+    {
+        "ncbi_tax_id": 1711440,
+        "scientific_name": "eucalyptus olida l a s johnson k d hill, eucalyptus olida",
+        "common_name": "olida"
+    },
+    {
+        "ncbi_tax_id": 172266,
+        "scientific_name": "tilia cordata, tilia cordata mill",
+        "common_name": "littleleaf linden, little leaf linden, small leaved limes, little leaf lindens, small leaf lindens, small leaf linden, littleleaf lindens, small leaved lime"
+    },
+    {
+        "ncbi_tax_id": 174970,
+        "scientific_name": "uvaria chamae, uvaria chamae p beauv",
+        "common_name": "fingerroot, bush banana, finger fruit, finger root"
+    },
+    {
+        "ncbi_tax_id": 1765291,
+        "scientific_name": "aframomum korima, aframomum korarima j pereira engl, aframomum corrorima a braun p c m jansen, aframomum corrorima, aframomum korarima",
+        "common_name": "korarima, ethiopian cardamom"
+    },
+    {
+        "ncbi_tax_id": 178105,
+        "scientific_name": "backhousia myrtifolia hook harv, backhousia myrtifolia",
+        "common_name": "cinnamon myrtle, ironwood, grey myrtle"
+    },
+    {
+        "ncbi_tax_id": 178109,
+        "scientific_name": "backhousia anisata vickery, anetholea anisata, syzygium anisatum, syzygium anisatum vickery craven biffin, anetholea anisata vickery peter g wilson, backhousia anisata",
+        "common_name": "aniseed myrtle, aniseed"
+    },
+    {
+        "ncbi_tax_id": 179860,
+        "scientific_name": "patrinia jatamansi d don, nardostachys chinensis, nardostachys jatamansi d don dc 1830 non valeriana jatamansi jones 1790, nardostachys jatamansi, nardostachys chinensis batalin, nardostachys grandiflora dc, nardostachys grandiflora, patrinia jatamansi",
+        "common_name": "spikenard"
+    },
+    {
+        "ncbi_tax_id": 182084,
+        "scientific_name": "gynostemma pentaphyllum, gynostemma pentaphyllum thunb makino, gynostemma pentaphyllum var dasycarpum c y wu, gynostemma pentaphyllum var pentaphyllum, gynostemma pentaphyllum var dasycarpum",
+        "common_name": "jiaogulan, sweet tea vine"
+    },
+    {
+        "ncbi_tax_id": 183260,
+        "scientific_name": "hibiscus sabdariffa l, hibiscus sabdariffa, hibiscus sabdariffa var sabdariffa, hibiscus sabdariffa var altissimus, hibiscus sabdariffa var altissima, hibiscus sabdariffa var altissimus wester",
+        "common_name": "red sorrel, roselle, red sorrels, roselles"
+    },
+    {
+        "ncbi_tax_id": 188493,
+        "scientific_name": "alpinia speciosa blume d dietr, nicolaia elatior, etlingera elatior, alpinia speciosa, nicolaia elatior jack horan",
+        "common_name": "red torch ginger, ginger torch, kantan, torch ginger, philippine waxflower"
+    },
+    {
+        "ncbi_tax_id": 190902,
+        "scientific_name": "mentha aquatica l, mentha x piperita var citrata ehrh briq, mentha x piperita subsp citrata, mentha piperita var citrata, mentha aquatica var citrata, mentha citrata, mentha aquatica var hirsuta huds fr, mentha x piperita subsp citrata ehrh briq, mentha x piperita var citrata, mentha aquatica var hirsuta, mentha aquatica var hypeuria, mentha aquatica, mentha aquatica var hypeuria briq, mentha x piperita nothosubsp citrata, mentha aquatica var citrata ehrh fresen, mentha piperita subsp citrata, mentha citrata ehrh",
+        "common_name": "water mint, bergamot mints, orange mint, lemon mints, water mints, eau de cologne mint, eau de cologne mints, lemon mint, bergamot mint, orange mints"
+    },
+    {
+        "ncbi_tax_id": 194253,
+        "scientific_name": "brosimum alicastrum, brosimum alicastrum sw",
+        "common_name": "maya breadnuts, breadnut tree seeds, maya breadnut, breadnut tree seed"
+    },
+    {
+        "ncbi_tax_id": 1986359,
+        "scientific_name": "lippia graveolens kunth 1888, lippia graveolens",
+        "common_name": "mexican oregano, mexican oreganos"
+    },
+    {
+        "ncbi_tax_id": 199616,
+        "scientific_name": "aframomum daniellii hook f k schum, aframomum danielii, aframomum daniellii",
+        "common_name": "cameroon s cardamom, alligator pepper"
+    },
+    {
+        "ncbi_tax_id": 199623,
+        "scientific_name": "alpinia officinarum, alpinia officinarum hance",
+        "common_name": "galangal lesser, lesser galangal, chinese ginger"
+    },
+    {
+        "ncbi_tax_id": 200963,
+        "scientific_name": "trigonella caerulea",
+        "common_name": "blue fenugreek, sweet trefoil"
+    },
+    {
+        "ncbi_tax_id": 203582,
+        "scientific_name": "sisymbrium officinale l scop, sisymbrium officinale",
+        "common_name": "hedge mustard, hedge mustards"
+    },
+    {
+        "ncbi_tax_id": 204098,
+        "scientific_name": "ocimum africanum, ocimum americanum var pilosum willd a j paton, ocimum basilicum var pilosum willd benth, ocimum americanum var pilosum, ocimum basilicum var pilosum, ocimum americanum x ocimum basilicum, ocimum citriodorum, ocimum x africanum lour, ocimum x citriodorum vis, ocimum basilicum x ocimum canum, ocimum x africanum, ocimum x citriodorum, ocimum basilicum x ocimum americanum",
+        "common_name": "lemon basil"
+    },
+    {
+        "ncbi_tax_id": 204149,
+        "scientific_name": "ocimum sanctum l, ocimum tenuiflorum, ocimum sanctum, ocimum tenuiflorum l 1753 non burm f 1768",
+        "common_name": "sacred basil, holy basil, bush tea leaf"
+    },
+    {
+        "ncbi_tax_id": 204180,
+        "scientific_name": "plectranthus amboinicus, coleus amboinicus, coleus amboinicus lour, plectranthus amboinicus lour spreng",
+        "common_name": "indian borage, oregano cuban"
+    },
+    {
+        "ncbi_tax_id": 204219,
+        "scientific_name": "thymus serpyllum l, thymus serpyllum",
+        "common_name": "mother of thyme, tomillo, serpolet, creeping thyme, wild thyme"
+    },
+    {
+        "ncbi_tax_id": 219868,
+        "scientific_name": "syzygium aromaticum, caryophyllus aromaticus, syzygium aromaticum l merr l m perry, eugenia caryophyllata, eugenia caryophyllata thunb nom illeg superfl, eugenia aromatica l baill, eugenia aromatica, caryophyllus aromaticus l",
+        "common_name": "cloves, clove"
+    },
+    {
+        "ncbi_tax_id": 22294,
+        "scientific_name": "drimys colorata, pseudowintera colorata raoul dandy, drimys colorata raoul, pseudowintera colorata",
+        "common_name": "mountain horopito"
+    },
+    {
+        "ncbi_tax_id": 224910,
+        "scientific_name": "virola surinamensis, virola surinamensis rol ex rottb warb",
+        "common_name": "white ucubas, suriname virola, suriname virolas, ucuhubas, ucuhuba, white ucuba"
+    },
+    {
+        "ncbi_tax_id": 240453,
+        "scientific_name": "pandanus odoratissimus, pandanus odoratissimus l f, pandanus odoratissimus var sinensis warb kaneh, pandanus fascicularis, pandanus fascicularis lam, pandanus odorifer forssk kuntze nom dub, pandanus odoratissumus, pandanus odoratissimus var sinensis",
+        "common_name": "pandan flower"
+    },
+    {
+        "ncbi_tax_id": 258209,
+        "scientific_name": "berberis vulgaris l, berberis vulgaris",
+        "common_name": "european barberry, common barberry, barberry"
+    },
+    {
+        "ncbi_tax_id": 260201,
+        "scientific_name": "pandanus amaryllifolius, pandanus amaryllifolius roxb",
+        "common_name": "pandan rampeh, pandan wangi, pandan leaf, fragrant screw pine"
+    },
+    {
+        "ncbi_tax_id": 261786,
+        "scientific_name": "helichrysum italicum, helichrysum italicum subsp siculum, helichrysum italicum subsp italicum, helichrysum serotinum subsp serotinum, helichrysum italicum subsp serotinum, helichrysum italicum subsp microphyllum willd nyman, helichrysum serotinum, helichrysum serotinum subsp picardii boiss reut galbany l saez benedi, helichrysum italicum subsp siculum jord fourr galbany l saez benedi, helichrysum italicum subsp picardii boiss reut franco, helichrysum italicum roth g don, helichrysum serotinum boiss, helichrysum italicum subsp microphyllum, helichrysum italicum subsp serotinum dc p fourn, helichrysum serotinum subsp picardii, helichrysum italicum subsp picardii",
+        "common_name": "curry plant"
+    },
+    {
+        "ncbi_tax_id": 263472,
+        "scientific_name": "drimys stipitata, tasmannia stipitata, tasmannia stipitata vickery a c sm, drimys stipitata vickery",
+        "common_name": "pepper doriigo"
+    },
+    {
+        "ncbi_tax_id": 268884,
+        "scientific_name": "majorana hortensis moench, origanum majorana, majorana hortensis, origanum dubium, origanum majorana l, origanum dubium boiss",
+        "common_name": "marjoram, riganis, rigani, sweet marjorams, sweet marjoram, marjorams"
+    },
+    {
+        "ncbi_tax_id": 271192,
+        "scientific_name": "pimpinella anisum, pimpinella anisum l",
+        "common_name": "anise burnet saxifrages, aniseeds, anise, aniseed, aniseed saunf hindi, anise burnet saxifrage, anises"
+    },
+    {
+        "ncbi_tax_id": 292239,
+        "scientific_name": "mentha arvensis l, mentha arvensis",
+        "common_name": "japanese mint, field mint, corn mint, field mints, apple mint, apple mints, cornmint, corn mints, cornmints, japanese mints, wild mint, wild mints"
+    },
+    {
+        "ncbi_tax_id": 292385,
+        "scientific_name": "butyrospermum parkii, butyrospermum paradoxum c f gaertn hepper, butyrospermum paradoxum subsp parkii, butyrospermum paradoxum subsp parkii g don hepper, butyrospermum paradoxum, vitellaria paradoxa subsp nilotica kotschy a n henry chithra n c nair, butyrospermum parkii g don kotschy, vitellaria paradoxa, vitellaria paradoxa subsp nilotica, vitellaria paradoxa c f gaertn, vitellaria paradoxa subsp paradoxa",
+        "common_name": "shea buttertree, karite nut, shea tree, shea buttertrees, karite nuts, shea trees"
+    },
+    {
+        "ncbi_tax_id": 29719,
+        "scientific_name": "mentha x villosa var cordifolia opiz ex fresen lebeau, mentha spicata, mentha x villosa var cordifolia, mentha cordiflolia, mentha microphylla k koch, mentha x cordifolia, mentha spicata subsp condensata briq greuter burdet, mentha spicata subsp condensata, mentha crispa var crispata f reticulata, mentha spicata l, mentha viridis l l, mentha cordifolia, mentha viridis, mentha x cordifolia opiz ex fresen, mentha microphylla",
+        "common_name": "spearmints, habag, habags, spearmint"
+    },
+    {
+        "ncbi_tax_id": 298661,
+        "scientific_name": "rhus coriaria",
+        "common_name": "tanner s sumac, sicilian sumac, sumac, sumach, elm leaved sumach"
+    },
+    {
+        "ncbi_tax_id": 301877,
+        "scientific_name": "tanacetum balsamita, tanacetum balsamita l",
+        "common_name": "alecost, costmary"
+    },
+    {
+        "ncbi_tax_id": 316919,
+        "scientific_name": "ricinodendron heudelotii",
+        "common_name": "manketti nut, zambezi almond, african oil nut tree, njangsa djansang"
+    },
+    {
+        "ncbi_tax_id": 330163,
+        "scientific_name": "dysphania ambrosioides, chenopodium ambrosioides l, dysphania ambrosioides l mosyakin clemants, chenopodium ambrosiodes, chenopodium ambrosioides",
+        "common_name": "jerusalem teas, epazotes, mexican tea, epazote, mexican teas, american wormseeds, jerusalem tea, american wormseed"
+    },
+    {
+        "ncbi_tax_id": 3311,
+        "scientific_name": "ginkgo biloba var epiphylla, ginkgo biloba, ginkgo biloba f epiphylla, gingko biloba, ginkgo biloba l",
+        "common_name": "ginkgo, maidenhair tree, ginkgos, ginkgo nuts, maidenhair trees, ginkgo nut"
+    },
+    {
+        "ncbi_tax_id": 33114,
+        "scientific_name": "capsicum praetermissum heiser p g sm, capsicum baccatum var umbilicatum, capsicum baccatum var umbilicatum vell hunz barboza, capsicum baccatum var baccatum, capsicum bacatum, capsicum baccatum, capsicum umbilicatum, capsicum baccatum l, capsicum baccatum var pendulum, capsicum baccatum var pendulum willd eshbaugh, capsicum umbilicatum vell, capsicum praetermissum, capsicum baccatum var praetermissum, capsicum baccatum var praetermissum heiser p g sm hunz",
+        "common_name": "locoto, escabeche, peruvian pepper, piment chiens, chinchi uchu, escabeches, locotos, chinchi uchus, peruvian peppers, piment chien"
+    },
+    {
+        "ncbi_tax_id": 3420,
+        "scientific_name": "tasmannia aromatica, tasmannia lanceolata, drimys lanceolata, drimys lanceolata poir baill, drimys aromatica, tasmannia lanceolata poir a c sm",
+        "common_name": "mountain pepper, pepper mountain"
+    },
+    {
+        "ncbi_tax_id": 34205,
+        "scientific_name": "iris x nepalensis, iris pallida x iris variegata, iris x germanicum, iris germanica, iris germanica l, iris x nepalensis wall ex lindl 1824 non iris nepalensis d don 1825, iris x germanica",
+        "common_name": "orris root, bearded iris, tall bearded german iris, purple flag, german iris"
+    },
+    {
+        "ncbi_tax_id": 34256,
+        "scientific_name": "mentha aquatica x mentha spicata, mentha x piperita l, mentha piperita, mentha x piperita var officinalis, mentha x piperita glacialis, mentha x piperita var officinalis f rubescens, mentha x piperita",
+        "common_name": "peppermints, peppermint"
+    },
+    {
+        "ncbi_tax_id": 3426,
+        "scientific_name": "canella winteriana, canella winterana l gaertn, canella alba, canella winterana",
+        "common_name": "curbana, cinnamon white, wild cinnamon, barbasco"
+    },
+    {
+        "ncbi_tax_id": 3435,
+        "scientific_name": "persea americana var drymifolia schltdl cham s f blake, persea americana var americana x guatemalensis, persea americanum, persea americana var drymifolia, persea americana, persea americana mill, persea americana var costaricensis ben ya akov et al nom inval, persea gratissima, persea gratissima c f gaertn nom illeg superfl, persea americana var guatemalensis l o williams scora nom inval, persea americana var americana, persea americana costaricensis, persea americana var guatemalensis, persea americana guatemalensis, persea americana var costaricensis",
+        "common_name": "avocado leaf, west indian avocado, mexican avocado, avocado, alligator pear"
+    },
+    {
+        "ncbi_tax_id": 3438,
+        "scientific_name": "umbellularia californica, umbellularia californica hook arn nutt",
+        "common_name": "mountain laurel, california laurel, sassafras laurel, headache tree, californian bay tree, california bay tree, californian olive, balm of heaven, california nutmeg, cajeput tree, spice bush, pepper nut"
+    },
+    {
+        "ncbi_tax_id": 3469,
+        "scientific_name": "papaver somniferum subsp setigerum, papaver somniferum convar nigrum hayne alef, papaver somnifera, papaver setigerum, papaver somniferum, papaver somniferum l, papaver setigerum dc, papaver somniferum subsp setigerum dc corb",
+        "common_name": "breadseed poppies, breadseed poppy"
+    },
+    {
+        "ncbi_tax_id": 354529,
+        "scientific_name": "zanthoxylum piperitum l dc, zanthoxylum piperitum",
+        "common_name": "japanese pepper tree, japanese pepper, japanese pepper leaf, sichuan pepper, san sho, szechuan pepper"
+    },
+    {
+        "ncbi_tax_id": 357850,
+        "scientific_name": "angelica keiskei, angelica keiskei miquel koidz",
+        "common_name": "japanese angelicas, japanese angelica"
+    },
+    {
+        "ncbi_tax_id": 35875,
+        "scientific_name": "allium fistuolosum, allium fistulosum l, allium fistulosum",
+        "common_name": "spring onions, japanese bunching onions, welsh onions, spring onion, welsh onion, japanese bunching onion"
+    },
+    {
+        "ncbi_tax_id": 35899,
+        "scientific_name": "galium odoratum, galium odoratum l scop",
+        "common_name": "bedstraw, woodruff, sweetscented bedstraw, sweet woodruff"
+    },
+    {
+        "ncbi_tax_id": 360621,
+        "scientific_name": "heracleum persicum desf, heracleum persicum",
+        "common_name": "persian cow parsley, golpar"
+    },
+    {
+        "ncbi_tax_id": 3704,
+        "scientific_name": "armoracia rusticana, armoracia rusticana p gaertn b mey scherb, armoracia rustica schur, armoracia rustica, armoracia laphatifolia, armoracia lapathifolia",
+        "common_name": "horseradishes, horseradish, red cole, red coles"
+    },
+    {
+        "ncbi_tax_id": 3707,
+        "scientific_name": "brassica juncea var multisecta l h bailey, brassica juncea var foliosa, brassica juncea var rugosa roxb kitam, brassica juncea var garrhiza, brassica juncea var gemmifera lee lin, brassica juncea var foliosa l h bailey, brassica juncea var tumida m tsen s h lee, brassica juncea var crassicaulis chen yang, brassica juncea var multisecta, brassica juncea subsp integrifolia var crispifolia, brassica juncea var napiformis, brassica juncea var napiformis pailleux bois kitam, brassica juncea var gracilis, brassica juncea var utilis, brassica juncea var crassicaulis, brassica juncea subsp integrifolia h west thell, brassica juncea subsp napiformis pailleux bois gladis, brassica juncea var subintegrifolia, brassica juncea var gracilis m tsen s h lee, brassica juncea var megarrhiza n tsen s h lee, brassica juncea var multiceps m tsen s h lee, brassica juncea root mustard group, brassica juncea var oleifera prain, brassica juncea subsp integrifolia var strumata, brassica juncea subsp integrifolia var rugosa, brassica juncea var tumida, brassica juncea var megarrhiza, brassica juncea var strumata, brassica juncea var oleifera, brassica juncea, brassica juncea var cernua forb hemsl, brassica juncea l czern, brassica juncea var gemmifera, brassica juncea subsp integrifolia, brassica juncea var strumata m tsen s h lee, brassica juncea var crispifolia l h bailey, brassica juncea subsp napiformis, brassica juncea subsp integrifolia var subintegrifolia, brassica juncea var multiceps, brassica juncea var subintegrifolia sinskaya, brassica juncea var crispifolia, brassica juncea var rugosa, brassica juncea var juncea, brassica juncea cutleaf mustard group",
+        "common_name": "zha cai, root mustard, mustard brown, chinese mustard, leaf mustard, indian mustard, brown mustard"
+    },
+    {
+        "ncbi_tax_id": 3710,
+        "scientific_name": "brassica nigra l w d j koch, brassica nigra, brassica nigra var abyssinica",
+        "common_name": "mustard black, black mustard"
+    },
+    {
+        "ncbi_tax_id": 371726,
+        "scientific_name": "pistacia lentiscus l, pistacia lentiscus",
+        "common_name": "mastic, mastic tree, mastic shrub, mastic tree pistachier lentisque"
+    },
+    {
+        "ncbi_tax_id": 3728,
+        "scientific_name": "sinabs alba, brassica hirta, sinapis alba, sinapis alba l, brassica hirta moench",
+        "common_name": "yellow mustard, yellow mustards, white mustard, white mustards"
+    },
+    {
+        "ncbi_tax_id": 375272,
+        "scientific_name": "pimenta dioica, pimenta dioica l merr",
+        "common_name": "jamaica peppers, jamaica pepper, allspice, malaqueta, pimento, allspice trees, malaquetas, allspice tree, pimentos, allspices"
+    },
+    {
+        "ncbi_tax_id": 37565,
+        "scientific_name": "ruta graveolens l, ruta graveolens, ruta graveolans",
+        "common_name": "common rue, garden rue, herb of grace"
+    },
+    {
+        "ncbi_tax_id": 377494,
+        "scientific_name": "bunium persicum, bunium persicum boiss b fedtsch",
+        "common_name": "black cumin, black caraway"
+    },
+    {
+        "ncbi_tax_id": 385388,
+        "scientific_name": "camellia oleifera, camelia oleifera, camellia oleifera c abel",
+        "common_name": "oil seed camellia, tea oils, oil seed camellias, tea oil plants, tea oil, tea oil camellia, abura tsubaki, tea oil plant, tea oil camellias, abura tsubakis"
+    },
+    {
+        "ncbi_tax_id": 3879,
+        "scientific_name": "medicago sativa subsp varia, medicago glomerata balb, medicago glomerata, medicago sativa subsp sativa x medicago sativa subsp falcata, medicago sativa subsp x hemicycla, medicago sativa subsp caerulea less ex ledeb schmalh, medicago sativa subsp hemicycla, medicago sativa subsp glomerata balb rouy, medicago x varia, medicago sativa subsp x hemicycla grossh c r gunn, medicago sativa l, medicago sativa subsp caerulea, medicago sativa subsp x gaetula urb, medicago varia, medicago sativa nothosubsp varia, medicago sativa subsp x varia, medicago sativa subsp x varia martyn arcang, medicago sativa subsp x tunetana murb, medicago sativa nothosubsp hemicycla, medicago sativa, medicago sativa ssp varia, medicago sativa x medicago falcata, medicago sativa subsp sativa, medicago sativa subsp x tunetana, medicago sativa subsp caerulea x medicago falcata, medicago sativa subsp coerulea, medicago coerulea, medicago sativa subsp x gaetula, medicago sativa subsp glomerata, medicago xvaria, medicago sativa nothosubsp varia martyn arcang, medicago caerulea",
+        "common_name": "yellow alfalfa, lucernes, yellow alfalfas, lucerne"
+    },
+    {
+        "ncbi_tax_id": 38868,
+        "scientific_name": "salvia officinalis l, salvia officinalis",
+        "common_name": "small leaf sage, small leaf sages, kitchen sage, common sage, garden sages, common sages, garden sage, kitchen sages"
+    },
+    {
+        "ncbi_tax_id": 38869,
+        "scientific_name": "salvia sclarea l, salvia sclarea",
+        "common_name": "clary sage, muscatel sage, europe sage, cleareye"
+    },
+    {
+        "ncbi_tax_id": 39324,
+        "scientific_name": "hyssopus officinalis, hyssopus officinalis l",
+        "common_name": "hyssops, hyssop"
+    },
+    {
+        "ncbi_tax_id": 39329,
+        "scientific_name": "lavandula angustifolia subsp pyrenaica, lavandula angustifolia mill, lavandula angustifolia subsp pyrenaica dc guinea, lavandula angustifolia, lavandula angustifolia subsp angustifolia, lavandula officinalis chaix ex vill, lavandula officinalis",
+        "common_name": "true lavender, common lavender, lavender oil, english lavender"
+    },
+    {
+        "ncbi_tax_id": 39338,
+        "scientific_name": "melissa officinalis, melissa officinalis l",
+        "common_name": "common balm, sweet balm, bee balm, lemon balm, bee balms, sweet balms, lemon balms, common balms"
+    },
+    {
+        "ncbi_tax_id": 39347,
+        "scientific_name": "nepeta cataria l, nepeta cataria, nepeta cataria var citriodora",
+        "common_name": "catnip, catmint"
+    },
+    {
+        "ncbi_tax_id": 39350,
+        "scientific_name": "ocimum basilicum var purpurascens, ocimum bacilicum, ocimum basilicum, ocimum basilicum var purpurascens benth, ocimum bascilicum, ocimum basilicum l",
+        "common_name": "thai basil, basils, tropical basils, basil, thai basils, sweet basil, tropical basil, sweet basils, common basil, common basils"
+    },
+    {
+        "ncbi_tax_id": 39352,
+        "scientific_name": "origanum vulgare subsp viridulum, origanum vulgare subsp vulgare, non origanum heracleoticum benth nom illeg, origanum vulgare l, origanum heracleoticum rchb nom illeg, origanum vulgare subsp gracile, origanum heracleoticum l, origanum vulgare, origanum heracleoticum, origanum vulgare subsp hirtum, non origanum heracleoticum rchb nom illeg, origanum vulgare subsp viridulum martrin donos nyman, origanum heracleoticum benth nom illeg, origanum vulgare subsp gracile k koch ietsw, non origanum heracleoticum w d j koch nom illeg, origanum vulgare subsp viride boiss hayek, origanum vulgare subsp viride, origanum virens hoffmanns link, origanum vulgare subsp hirtum link ietsw, origanum vulgare subsp virens, origanum virens, origanum vulgare subsp virens hoffmanns link ietsw, origanum vulgare ssp vulgare",
+        "common_name": "common oregano, oreganos, common oreganos, oregano"
+    },
+    {
+        "ncbi_tax_id": 39367,
+        "scientific_name": "salvia rosmarinus, rosmarinus officinalis, rosmarinus officinalis l 1753, salvia rosmarinus l schleid 1852",
+        "common_name": "rosemaries, rosemary"
+    },
+    {
+        "ncbi_tax_id": 3942,
+        "scientific_name": "oenothera biennis, oenothera suaveolens, oenothera biennis l, oenothera suaveolens pers",
+        "common_name": "evening primrose, common evening primrose, evening primroses, german evening primroses, common evening primroses, german evening primrose"
+    },
+    {
+        "ncbi_tax_id": 397098,
+        "scientific_name": "cinnamomum tamala, cinnamomum tamala buch ham t nees c h eberm",
+        "common_name": "indian bark, cassia leaves, indian cassia, indian bay"
+    },
+    {
+        "ncbi_tax_id": 39976,
+        "scientific_name": "backhousia citriodora, backhousia citriodora f muell",
+        "common_name": "lemon scented myrtle, lemon ironwood, lemon myrtle"
+    },
+    {
+        "ncbi_tax_id": 4006,
+        "scientific_name": "linum usitatissimum l, linum usitatissimum",
+        "common_name": "common flax, common flaxes, linseed, flax seeds, flax seed, linseeds"
+    },
+    {
+        "ncbi_tax_id": 400990,
+        "scientific_name": "solanum centrale j m black, solanum centrale",
+        "common_name": "desert raisin, akudjura, bush tomato"
+    },
+    {
+        "ncbi_tax_id": 4043,
+        "scientific_name": "petroselinum crispum subsp tuberosum, petroselinum crispum var tuberosum, petroselinum crispum var neapolitanum, petroselinum crispum subsp tuberosum bernh ex rchb soo, petroselinum hortense, petroselinum crispum, petroselinum crispum radicosum group, petroselinum sativum, petroselinum crispum var neapolitanum danert, petroselinum crispum tuberosum group, petroselinum crispum var vulgare nois danert, petroselinum hortense var radicosum alef l h bailey, petroselinum crispum var vulgare, petroselinum crispum var tuberosum bernh mart crov, petroselinum crispum mill fuss, petroselinum crispum neapolitanum group",
+        "common_name": "hamburg parsleys, hamburg parsley, turnip root parsley, turnip root parsleys, italian parsley, italian parsleys"
+    },
+    {
+        "ncbi_tax_id": 4045,
+        "scientific_name": "apium graveolens var secalinum alef, apium graveolens, apium graveolens rapaceum group, apium graveolens var dulce, apium graveolens var rapaceum, apium graveolens var rapaceum mill dc, apium graveolens l, apium graveolens celeriac group, apium graveolens var dulce mill pers, apium graveolens secalinum group, apium graveolens var secalinum, apium graveolans, apium graveolens dulce group",
+        "common_name": "smallage, celery stalk, celeriac, celery stalks, celery knob, wild celery ajmods, chinese celery, leaf celerys, smallages, celery knobs, wild celeries, wild celery, wild celery ajmod, chinese celeries, celery, stalk celeries, celeriacs, stalk celery, celery leaves, leaf celery, celeries"
+    },
+    {
+        "ncbi_tax_id": 4047,
+        "scientific_name": "coriandrium sativum, coriandrum sativum, coriandrum sativum l",
+        "common_name": "coriander, cilantro, cilantros, corianders, coriander seed, coriander dhania cilantro, coriander seeds"
+    },
+    {
+        "ncbi_tax_id": 405322,
+        "scientific_name": "piper cubeba l f, piper cubeba",
+        "common_name": "cubeb pepper, tailed pepper, java pepper, pepper cubeb"
+    },
+    {
+        "ncbi_tax_id": 4072,
+        "scientific_name": "capsicum conoide, capsicum annuum var grossum, capsicum frutescens var grossum l l h bailey, capsicum annuum var acuminata, capsicum annuum var conoide, capsicum annuum var angulosum, capsicum annuum l, capsicum annuum conoides group, capsicum annuum, capsicum conoides, capsicum annuum var acuminatum, capsicum annuum var acuminata fingerh, capsicum annuum cerasiforme group, capsicum annuum var cerasiforme mill irish, capsicum frutescens var grossum, capsicum annuum var conoides mill irish, capsicum annuum var conoides, capsicum annuum var glabriusculum, capsicum sp hd hw, capsicum annuum var annuum, capsicum conoides mill, capsicum annum, capsicum annuum var cerasiforme, capsicum sp jym 2013, capsicum annuum var glabriusculum dunal heiser pickersgill, capsicum annuum var aviculare, capsicum capsicum",
+        "common_name": "yellow bell pepper, red bell peppers, american bird peppers, pimentos, jalapeno pepper, paprikas, chili peppers, ornamental chili peppers, chiltepe, red pepper, cayenne pepper, christmas peppers, green bell peppers, chili pepper, red bell pepper, ornamental chili pepper, chilli pepper, chilipiquin, orange bell peppers, red peppers, sweet pepper, pimento, green bell pepper, orange bell pepper, cayenne peppers, christmas pepper, jalapeno peppers, italian sweet red pepper, paprika, chiltepes, american bird pepper, chilli peppers, yellow bell peppers, sweet peppers, chilipiquins, italian sweet red peppers"
+    },
+    {
+        "ncbi_tax_id": 4073,
+        "scientific_name": "capsicum frutescens l, capsicum frutescens",
+        "common_name": "chili pepper, hot peppers, tabasco pepper, cayenne pepper, chili peppers, tabasco peppers, hot pepper, bird s eye chillies, bird s eye chilli, bird peppers, bird pepper, cayenne peppers"
+    },
+    {
+        "ncbi_tax_id": 40880,
+        "scientific_name": "myrrhis odorata, myrrhis odorata l scop, myrris odorata",
+        "common_name": "sweet cicely, anise"
+    },
+    {
+        "ncbi_tax_id": 40888,
+        "scientific_name": "anthriscus cerefolium, anthriscus cerefolium subsp trichosperma, anthriscus cerefolium var trichocarpa, anthriscus cerefolium l hoffm, anthriscus cerefolium subsp trichosperma nyman",
+        "common_name": "chervils, chervil, garden chervil, garden chervils"
+    },
+    {
+        "ncbi_tax_id": 40922,
+        "scientific_name": "anethum graveolens, anethum graveolens l",
+        "common_name": "dill seed, dill seeds"
+    },
+    {
+        "ncbi_tax_id": 40962,
+        "scientific_name": "smyrnium olusatrum, smyrnium olusatrum l",
+        "common_name": "horse parsley, black lovage"
+    },
+    {
+        "ncbi_tax_id": 41241,
+        "scientific_name": "rumex articus, rumex acetosa l, rumex acetosa",
+        "common_name": "sourdocks, garden sorrel, supermarket sorrels, sour docks, supermarket sorrel, sourdock, garden sorrels, sour dock"
+    },
+    {
+        "ncbi_tax_id": 4182,
+        "scientific_name": "sesamum malabaricum burm, sesamun indicum, sesamum indicum var malabaricum burm christenh, sesamum orientale l, sesamum orientale, sesamum malabaricum, sesamum indicum, sesamum indicum var malabaricum, sesamum indicum l",
+        "common_name": "sesame, oil seed sesame, beniseed, sesames, beniseeds, gingelly, gingellies, oil seed sesames"
+    },
+    {
+        "ncbi_tax_id": 4220,
+        "scientific_name": "artemisia vulgaris type 1, artemisia vulgaris, artemisia vulgaris type 2, artemisia vulgaris subsp vulgaris, artemisia vulgaris l",
+        "common_name": "felon herb, mugwort, wild wormwoods, artemisia shoot, felon herbs, artemisia shoots, wild wormwood, chrysanthemum weed, common wormwoods, slender artemisias, common wormwood, slender artemisia, mugworts, chrysanthemum weeds"
+    },
+    {
+        "ncbi_tax_id": 4222,
+        "scientific_name": "carthamus tinctorius var inermis, carthamnus tinctorius, carthamus tinctorius l, carthamus tinctorius, carthamus tinctorius var inermis hanelt, carthamus tinctorius var tinctorius",
+        "common_name": "safflowers, safflower, hoang tchis, koosumbha, koosumbhas, hoang tchi"
+    },
+    {
+        "ncbi_tax_id": 4232,
+        "scientific_name": "helianthus annuus subsp texanus heiser, helianthus annus, helianthus annuus subsp annuus, helianthus annuus subsp texanus, helianthus annuus l, helianthus annuus8, helianthus annuus, helianthus annua",
+        "common_name": "sunflowers, common sunflower, common sunflowers, sunflower"
+    },
+    {
+        "ncbi_tax_id": 43725,
+        "scientific_name": "quassia amara, quassia amara l",
+        "common_name": "amargo bark, bitterwood, suriname quassia, quassia"
+    },
+    {
+        "ncbi_tax_id": 438424,
+        "scientific_name": "limnophila aromaticoides, limnophila aromaticoides y p yang s h yen, limnophila aromatica, limnophila aromatica lam merr",
+        "common_name": "rice paddy herb"
+    },
+    {
+        "ncbi_tax_id": 43851,
+        "scientific_name": "schinus sp savolainen 1997, schinus molle l, schinus molle",
+        "common_name": "peruvian pepper, peruvian mastic tree, california peppertree, peruvian peppertree"
+    },
+    {
+        "ncbi_tax_id": 452416,
+        "scientific_name": "origanum heracleoticum w d j koch nom illeg, origanum onites l, origanum onites",
+        "common_name": "pot marjorams, pot marjoram, turkish origano, french marjoram, french marjorams, turkish origanos"
+    },
+    {
+        "ncbi_tax_id": 46147,
+        "scientific_name": "portulaca oleraceae, portulaca oleracea subsp granulata stellata, portulaca oleracea subsp rausii, portulaca oleracea l, portulaca oleracea subsp rausii danin j walter, portulaca oleracea subsp stellata danin h g baker, portulaca rausii danin, portulaca oleracea subsp papillatostellulata, portulaca rausii, portulaca oleracea subsp stellata, portulaca oleracea subsp nitida, portulaca oleracea subsp papillatostellulata danin h g baker, portulaca oleracea subsp oleracea, portulaca oleracea subsp impolita, portulaca oleracea var sativa dc, portulaca oleracea subsp nicaraguensis, portulaca oleracea var sativa, portulaca oleracea subsp sativa, portulaca oleracea subsp granulatostellulata, portulaca oleracea subsp impolita danin h g baker, portulaca oleracea, portulaca oleracea subsp granulatostellulata poelln danin h g baker, portulaca oleracea subsp nicaraguensis danin h g baker, portulaca oleracea subsp sativa haw celak, portulaca oleracea subsp nitida danin h g baker",
+        "common_name": "little hogweeds, purslane, little hogweed, purslanes, green purslanes, green purslane"
+    },
+    {
+        "ncbi_tax_id": 4682,
+        "scientific_name": "allium longicuspis regel, allium sativa, allium sativum l, allium longicuspis, allium sativum, allium sativum f pekinense prokh makino, allium sativum f pekinense, allium sativum l var sativum",
+        "common_name": "soft necked garlics, soft necked garlic, cultivated garlic, garlic, garlics"
+    },
+    {
+        "ncbi_tax_id": 4683,
+        "scientific_name": "allium clarkei hook f, allium tuberosum, allium tuberosum rottler ex spreng, allium clarkei, allium uliginosum d don 1827 non ledeb 1829 nec kanitz 1863",
+        "common_name": "garlic chives, oriental chives, garlic chive, oriental chive, chinese chives, chinese chive"
+    },
+    {
+        "ncbi_tax_id": 46901,
+        "scientific_name": "polygonum hydropiper l, persicaria hydropiper l spach, polygonum hydropiper, persicaria hydropiper",
+        "common_name": "marshpepper knotweed, marshpepper smartweed, smartweed, water pepper"
+    },
+    {
+        "ncbi_tax_id": 46945,
+        "scientific_name": "sassafras albidum, sassafras albidum nutt nees",
+        "common_name": "common sassafras, american sassafras, fennel wood, sassafras, white sassafras, ague tree"
+    },
+    {
+        "ncbi_tax_id": 477864,
+        "scientific_name": "eryngium foetidum l, eryngium foetidum",
+        "common_name": "false coriander, sawtooth coriander, culantro"
+    },
+    {
+        "ncbi_tax_id": 48032,
+        "scientific_name": "carum carvi l, carum carvi",
+        "common_name": "caraway, caraways"
+    },
+    {
+        "ncbi_tax_id": 48038,
+        "scientific_name": "foeniculum vulgare var dulce mill batt, feoniculum vulgare, foeniculum vulgare mill, foeniculum vulgare subsp piperitum, foeniculum vulgare, foeniculum vulgare var dulce, foeniculum vulgare var vulgare, foeniculum vulgare subsp vulgare, foeniculum vulgare subsp piperitum ucria cout",
+        "common_name": "roman fennels, fennel, common fennel, common fennels, sweet fennels, roman fennel, fennels, sweet fennel, bitter fennel, bitter fennels"
+    },
+    {
+        "ncbi_tax_id": 48042,
+        "scientific_name": "levisticum officinale w d j koch, levisticum officinale",
+        "common_name": "love parsleys, italian lovages, lovage, italian parsleys, love parsley, lovages, garden lovage, italian lovage, garden lovages, italian parsley"
+    },
+    {
+        "ncbi_tax_id": 48386,
+        "scientific_name": "perilla arguta benth, perilla frutescens f crispidiscolor, perilla frutescens var hirtella nakai makino, perilla frutescens var auriculato dentata, perilla frutescens var purpurascens hayata h w li, perilla hirtella nakai, perilla frutescens l britton, perrilla frutescens, perilla frutescens var frutescens, perilla arguta, perilla frutescens var arguta, perilla frutescens var crispa benth deane ex l h bailey, perilla frutescens f crispidiscolor makino, perilla frutescens var auriculatodentata, perilla hirtella, perilla frutescens var purpurasces, perilla frutescens var purpurascens, perilla frutescens var arguta benth hand mazz, perilla frutescens var hirtella, perilla frutescens var crispa benth w deane, perilla frutescens var auriculatodentata c y wu s j hsuan ex h w li, perilla frutescens var acuta, perilla frutescens var acuta odash kudo, perilla frutescens var crispa, perilla frutescens",
+        "common_name": "beefsteak plant, spreading beefsteak plant, beefsteak mint, shiso zoku, beefsteakplant"
+    },
+    {
+        "ncbi_tax_id": 49212,
+        "scientific_name": "salvia hispanica l, salvia hispanica",
+        "common_name": "mexican chias, chia seeds, mexican chia, chia seed"
+    },
+    {
+        "ncbi_tax_id": 49511,
+        "scientific_name": "piper longum l, piper longum",
+        "common_name": "indian long pepper, pepper long, long pepper"
+    },
+    {
+        "ncbi_tax_id": 49827,
+        "scientific_name": "glycyrrhiza glabra, glycyrrhiza glabra l",
+        "common_name": "liquorice, cultivated licorice, licorice"
+    },
+    {
+        "ncbi_tax_id": 49987,
+        "scientific_name": "satureja hortensis, satureja hortensis l",
+        "common_name": "summer savories, summer savouries, summer savoury, summer savory"
+    },
+    {
+        "ncbi_tax_id": 49988,
+        "scientific_name": "satureja montana, satureja montana l",
+        "common_name": "mountain savories, winter savouries, mountain savory, winter savoury, winter savory, winter savories"
+    },
+    {
+        "ncbi_tax_id": 49992,
+        "scientific_name": "thymus vulgaris, thymus vulgaris l",
+        "common_name": "garden thyme, garden thymes, thyme, wild thyme, wild thymes, common thyme, common thymes, french thyme, english thymes, french thymes, thymes, english thyme"
+    },
+    {
+        "ncbi_tax_id": 50225,
+        "scientific_name": "taraxacum officinalis, taraxacum officinale agg, taraxacum officinale, taraxacum officinale f h wigg",
+        "common_name": "common dandelions, dandelion, dandelion kukraundhas, kanphool, dandelion kukraundha, common dandelion, dandelions, kanphools"
+    },
+    {
+        "ncbi_tax_id": 51089,
+        "scientific_name": "myristica officinalis l f 1781 non myristica officinalis mart 1828, myristica fragrans houtt, myristica fragrans",
+        "common_name": "nutmegs, nutmeg"
+    },
+    {
+        "ncbi_tax_id": 511536,
+        "scientific_name": "piper borbonense, piper borbonense miq c dc",
+        "common_name": "voatsiperifery piper"
+    },
+    {
+        "ncbi_tax_id": 51239,
+        "scientific_name": "vanilla planifolia andrews, vanilla fragrans, vanilla planifolia",
+        "common_name": "vanilla, cultivated vanilla"
+    },
+    {
+        "ncbi_tax_id": 52462,
+        "scientific_name": "cuminum cyminum l, cuminum cyminum",
+        "common_name": "cumin, cumins"
+    },
+    {
+        "ncbi_tax_id": 52471,
+        "scientific_name": "ferula assa foetida l, ferula assa foetida",
+        "common_name": "hing, devil s dung, stinking gum, asafetida, asafoetida"
+    },
+    {
+        "ncbi_tax_id": 52570,
+        "scientific_name": "trachyspermum ammi, trachyspermum ammi l sprague",
+        "common_name": "ajowan, ajwain, caraway, lovage"
+    },
+    {
+        "ncbi_tax_id": 542672,
+        "scientific_name": "aloysia triphylla, aloysia triphylla royle",
+        "common_name": "lemon verbenas, lemon verbena, lemon beebrush, lemon beebrushes"
+    },
+    {
+        "ncbi_tax_id": 543564,
+        "scientific_name": "alkanna tinctoria",
+        "common_name": "alkanet, alkanna"
+    },
+    {
+        "ncbi_tax_id": 547469,
+        "scientific_name": "garcinia indica, garcinia indica thouars choisy",
+        "common_name": "kokam seed, goa butter, kokam butter, kokam"
+    },
+    {
+        "ncbi_tax_id": 555479,
+        "scientific_name": "nigella sativa, nigella sativa l",
+        "common_name": "black cumin, black caraway, caraway seed"
+    },
+    {
+        "ncbi_tax_id": 57919,
+        "scientific_name": "geum urbanum, geum urbanum l",
+        "common_name": "bennet s root old man s whiskers, herb bennet, wood avens"
+    },
+    {
+        "ncbi_tax_id": 58039,
+        "scientific_name": "juniperus communis var nana, juniperus communis var depressa pursh, juniperus communis subsp nana willd syme, juniperus communis subsp saxatilis pall e murr, juniperus communis var saxatilis pall, juniperus communis subsp hemisphaerica, juniperus nana willd, juniperus communis subsp alpina smith celak, juniperus communis var alpina sm, juniperus communis subsp depressa pursh franco, juniperus communis var depressa, juniperus communis var montana aiton, juniperus communis, juniperus communis subsp communis, juniperus communis var montana, juniperus communis var nana willd baumg, juniperus communis var alpina, juniperus sibirica, juniperus communis subsp alpina, juniperus communis var communis, juniperus communis var oblonga gaudin loudon, juniperus communis var oblonga, juniperus communis subsp saxatilis, juniperus communis subsp hemisphaerica c presl nyman, juniperus communis var saxatilis, juniperus nana, juniperus communis subsp nana, juniperus sibirica burgsd, juniperus communis subsp depressa, juniperus communis l, juniperus comunis, juniperus communis subsp alpina sm celak",
+        "common_name": "juniper, erect juniper, juniper berry, common juniper"
+    },
+    {
+        "ncbi_tax_id": 59338,
+        "scientific_name": "orchis mascula, orchis mascula subsp pinetorum, orchis pinetorum boiss kotschy, orchis pinetorum, orchis mascula subsp pinetorum boiss kotschy e g camus, orchis mascula l l 1755, orchis mascula l l",
+        "common_name": "spotted orchis, early purple orchis, male orchis, salep"
+    },
+    {
+        "ncbi_tax_id": 61450,
+        "scientific_name": "rumex acetosella l, rumex acetosella",
+        "common_name": "red sorrel, sheeps sorrel, sheep sorrel, common sorrel, common sheep sorrel"
+    },
+    {
+        "ncbi_tax_id": 63459,
+        "scientific_name": "chenopodium quinoa, chenopodium quinoa willd",
+        "common_name": "inca wheats, inca wheat, quinoas, goosefoots, pigweed, quinoa, goosefoot, pigweeds"
+    },
+    {
+        "ncbi_tax_id": 637930,
+        "scientific_name": "aframomum melegueta, aframomum melegueta k schum",
+        "common_name": "grains of paradise, melegueta pepper"
+    },
+    {
+        "ncbi_tax_id": 63812,
+        "scientific_name": "peumus boldus, peumus boldus molina",
+        "common_name": "peumus boldus, boldu"
+    },
+    {
+        "ncbi_tax_id": 644182,
+        "scientific_name": "epilobium parviflorum schreb, epilobium parviflorum",
+        "common_name": "smallflower hairy willowherb, willow herb, hoary willowherb, codlins and cream"
+    },
+    {
+        "ncbi_tax_id": 65558,
+        "scientific_name": "capparis rupestris, capparis spinosa subsp rupestris sm nyman, capparis rupestris sm, capparis spinosa l, capparis spinosa, capparis spinosa subsp rupestris",
+        "common_name": "caper, common caper, caperbushes, coastal caper, caperbush, coastal capers, caper bush, common capers, caper bushes, capers"
+    },
+    {
+        "ncbi_tax_id": 65948,
+        "scientific_name": "roripa nasturtium aquaticum, rorippa nasturtium aquaticum, nasturtium officinale, rorippa nasturtium aquaticum l hayek, nasturtium nasturtium aquaticum l h karst nom inval, nasturtium officinale w t aiton, rorippa nasturtiumaquaticum",
+        "common_name": "watercress, watercresses"
+    },
+    {
+        "ncbi_tax_id": 66014,
+        "scientific_name": "cymbopogon citratus dc stapf, cymbopogon citratus",
+        "common_name": "lemon grass, lemongrasses, lemon grasses, citronella grasses, citronella grass, lemongrass"
+    },
+    {
+        "ncbi_tax_id": 662901,
+        "scientific_name": "elsholtzia ciliata, elsholtzia_ciliata, elsholtzia ciliata thunb hyl",
+        "common_name": "vietnamese balm, crested late summer mint, crested latesummer mint, kinh gioi"
+    },
+    {
+        "ncbi_tax_id": 66672,
+        "scientific_name": "bixa orellana, bixa orellana l",
+        "common_name": "colorau, achiote, annatto, arnatto, annatto lipstick plant, urucum, lipstick tree, roucou"
+    },
+    {
+        "ncbi_tax_id": 669814,
+        "scientific_name": "salix pulchra, salix pulchra subsp parallelinervis a k skvortsov, salix pulchra subsp parallelinervis, salix pulchra cham",
+        "common_name": "tealeaf willows, tealeaf willow, tea leaf willows, tea leaf willow"
+    },
+    {
+        "ncbi_tax_id": 688535,
+        "scientific_name": "cinnamomum loureiroi nees, cinnamomum loureiroi, cinnamomum loureirii",
+        "common_name": "saigon cinnamon"
+    },
+    {
+        "ncbi_tax_id": 72332,
+        "scientific_name": "artemisia absinthium var calcigena rehman, artemisia absinthium var calcigena, artemisia absinthium, artemisia absinthium var absinthium, artemisia absinthium l",
+        "common_name": "absinthium, wormwood"
+    },
+    {
+        "ncbi_tax_id": 72341,
+        "scientific_name": "artemisia dracunculus var glauca, artemisia glauca pall ex willd, artemisia dracunculus var changaica, artemisia dracunculus var glauca pall ex willd besser, artemisia changaica, artemisia dracunculus, artemisia dracunculus l, artemisia changaica krasch, artemisia dracunculus var changaica krasch y r ling, artemisia glauca",
+        "common_name": "tarragons, french tarragons, russian tarragons, tarragon, french tarragon, russian tarragon"
+    },
+    {
+        "ncbi_tax_id": 74900,
+        "scientific_name": "allium schoenoprasum subsp schoenoprasum, allium schoenoprasum var foliosum clairv ex dc mutel, allium schoenopasum, allium schoenoprasum l, allium schoenoprasum subsp latiorifolium pau rivas mart, allium schoenoprasum, allium schoenoprasum var foliosum, allium schoenoprasum subsp latiorifolium",
+        "common_name": "chives, flowering onion, onion chive, wild chive, wild chives, chive, onion chives, flowering onions"
+    },
+    {
+        "ncbi_tax_id": 751873,
+        "scientific_name": "thymus pulegioides,    japonicum miq koidz, wasabia japonica miq matsum, wasabia japonica, eutrema wasabi, eutrema japonicum",
+        "common_name": "wasabe, wasabis, wasabes, japanese horseradishes, wasabi, japanese horseradish"
+    },
+    {
+        "ncbi_tax_id": 76433,
+        "scientific_name": "cyperus longus l, cyperus longus",
+        "common_name": "galingale, sweet galingale"
+    },
+    {
+        "ncbi_tax_id": 77113,
+        "scientific_name": "nuphar luteum, nuphar lutea, nuphar lutea l sm",
+        "common_name": "yellow water liles, yellow water lily, yellow waterlily, rocky mountain pond lily, yellow pond lilies, yellow waterlilies, rocky mountain pond lilies, yellow pond lily"
+    },
+    {
+        "ncbi_tax_id": 78534,
+        "scientific_name": "trigonella foenum graecum, trigonella foenum graecum l",
+        "common_name": "fenugreek, sicklefruit fenugreeks, sicklefruit fenugreek, fenugreeks"
+    },
+    {
+        "ncbi_tax_id": 79772,
+        "scientific_name": "verbena officinalis, verbena officinalis l",
+        "common_name": "kumatsuzura, herb of the cross, prostrate verbenas, common verbena, kumatsuzuras, ma bian cao, vervains, prostrate verbena, herb of the crosses, ma bian caos, common verbenas, vervain"
+    },
+    {
+        "ncbi_tax_id": 80379,
+        "scientific_name": "capsicum chinense jacq, capsicum chinense",
+        "common_name": "scotch bonnet, chinese capsicums, rocotillos, squash pepper, habanero, habaneros, bonnet peppers, squash peppers, bonnet pepper, rocotillo, scotch bonnets, chinese capsicum"
+    },
+    {
+        "ncbi_tax_id": 82528,
+        "scientific_name": "crocus sativus l, crocus sativus",
+        "common_name": "saffrons, saffron crocuses, saffron crocus, saffron"
+    },
+    {
+        "ncbi_tax_id": 85223,
+        "scientific_name": "laurus nobilis, laurus nobilis l",
+        "common_name": "bay laurels, bay leaf, grecian laurel, sweet bays, true laurel, bay leaves, bay tree, sweet bay, bay trees, bay laurel, true laurels, grecian laurels"
+    },
+    {
+        "ncbi_tax_id": 87671,
+        "scientific_name": "eucalyptus dives",
+        "common_name": "peppermint gum leaf, native peppermint, broad leaved peppermint"
+    },
+    {
+        "ncbi_tax_id": 888065,
+        "scientific_name": "salvia elegans, salvia elegans vahl",
+        "common_name": "pineapple sages, pineappple sage, pineapple sage, pineapple scented sage, pineappple sages, pineapple scented sages"
+    },
+    {
+        "ncbi_tax_id": 93297,
+        "scientific_name": "metroxylon sagu, metroxylon sagu rottb",
+        "common_name": "sago palms, sago palm"
+    },
+    {
+        "ncbi_tax_id": 94327,
+        "scientific_name": "alpinia galanga l willd, alpinia galanga",
+        "common_name": "galangal greater, siamese ginger, greater galangal"
+    },
+    {
+        "ncbi_tax_id": 94328,
+        "scientific_name": "zingiber officinale roscoe, zingiber officinalis, zingiber officinale",
+        "common_name": "gingers, ginger"
+    },
+    {
+        "ncbi_tax_id": 97750,
+        "scientific_name": "kaempferia galanga, kaempferia galanga var latifolia, kaempferia galanga l, kaempferia galangal",
+        "common_name": "kencur, aromatic ginger, resurrection lily, galangal"
+    },
+    {
+        "ncbi_tax_id": 98504,
+        "scientific_name": "matricaria recutita, matricaria chamomilla l, matricaria chamomilla var recutita l fiori, matricaria recutita l, matricaria chamomilla var recutita, matricaria chamomilla",
+        "common_name": "german camomiles, german chamomiles, german chamomile, german camomile"
+    },
+    {
+        "ncbi_tax_id": 99037,
+        "scientific_name": "anthemis nobilis, chamaemelum nobile l all, chamaemelum nobile",
+        "common_name": "common chamomiles, chamomile, roman chamomiles, common chamomile, roman camomile, roman chamomile, roman camomiles, chamomiles"
+    }
+]

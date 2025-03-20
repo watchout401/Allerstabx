@@ -1,0 +1,111 @@
+/* Font Family */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&display=swap');
+
+/* 1) GENERAL VARIABLES */
+
+/* FAQ PAGE WRAPPER */
+.faq-page {
+  /* background-color: #EBF6F4; Light background */
+  font-family: 'Manrope', sans-serif;
+  padding-top: 80px;       /* So the content doesn't hide under navbar */
+  padding-bottom: 100px;   /* Extra space above footer */
+  min-height: 100vh;
+  text-align: center;
+}
+
+/* FAQ CONTAINER */
+.faq-container {
+  max-width: 800px;        /* Center it nicely */
+  margin: 0 auto;
+  padding: 0 1rem;
+  text-align: left;        /* Align text to left inside the container */
+  max-height: 90vh;        /* Limit height to make container scrollable */
+  overflow-y: auto;
+}
+
+/* EACH FAQ ITEM */
+.faq-item {
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  overflow: hidden;        /* So content is hidden when collapsed */
+  background-color: #E5FECE;  /* Light green for the question area by default */
+  transition: all 0.3s ease;
+}
+
+/* Odd-indexed FAQ QUESTION BAR */
+.faq-container .faq-item:nth-child(odd) .faq-question {
+  background-color: #193F3F; /* Dark green background */
+  color: #fff;               /* White text */
+}
+
+/* FAQ QUESTION BAR */
+.faq-question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  padding: 1rem;
+  color: #193F3F;          /* Default dark green text for even questions */
+  font-weight: 600;
+  border-radius: 8px;
+}
+
+.faq-question:hover {
+  background-color: #dcefc9;  /* Slightly darker hover effect for even questions */
+}
+
+/* Hover effect for odd questions: optional adjustment */
+.faq-container .faq-item:nth-child(odd) .faq-question:hover {
+  background-color: #182f2f; /* Darker shade of green */
+}
+
+/* ICON (▲/▼) */
+.faq-icon {
+  font-size: 1.2rem;
+  margin-left: 0.5rem;
+}
+
+/* FAQ ANSWER SECTION (collapsible) */
+.faq-answer {
+  background-color: #EBF6F4;  /* Match page background */
+  overflow: hidden;           /* Hide content until expanded */
+  transition: max-height 0.4s ease; /* Smooth expand/collapse */
+}
+
+/* The actual text + images in the answer */
+.faq-answer-content {
+  padding: 1rem;
+  color: #193F3F;            /* Dark green text */
+}
+
+/* Example for any images in the FAQ answer */
+.faq-image {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 4px;
+}
+
+/* Styling for the team table in FAQ */
+.team-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.team-table th,
+.team-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.team-table th {
+  background-color: #182f2f;
+  font-weight: bold;
+  color: #fff;
+}
+
+.team-table tr:nth-child(odd) {
+  background-color: #f9f9f9;
+}

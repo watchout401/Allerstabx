@@ -1,0 +1,103 @@
+/* 2) GLOBAL RESET */
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  background-color: var(--page-background-color); 
+  overflow-x: hidden; /* Avoid horizontal scroll from full-bleed sections */
+}
+
+/*---------------------------------------------------------------- 
+HowToUse.css 
+----------------------------------------------------------------*/
+
+.howtouse-page {
+  background-color: var(--page-background-color);
+  font-family: 'Manrope', sans-serif;
+}
+
+.howtouse-container {
+  display: flex;
+  margin: 80px auto;
+  /* top, right, bottom, left */
+}
+
+/*----------------------------------------------------------------
+ Sidebar box styling 
+ ----------------------------------------------------------------*/
+.sidebar {
+  min-width: 240px;
+  margin-right: 40px; /* Space between sidebar and content area */
+}
+
+.link-box {
+  background-color: #E5FECE;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar-link {
+  display: block;
+  margin-bottom: 15px;
+  color: #193F3F;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: left;
+}
+
+.sidebar-link:hover {
+  text-decoration: underline;
+}
+
+/*----------------------------------------------------------------
+ Main content area styling 
+ ----------------------------------------------------------------*/
+.content-area {
+  width: 800px;
+  padding: 20px;
+  margin-right: 20px;
+  background-color: #EBF6F4;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: #193F3F;
+  text-align: left;
+  
+  
+}
+/*----------------------------------------------------------------
+ Main content image styles
+ ----------------------------------------------------------------*/
+.overview-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.search-image {
+  width: 50%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.disease-image {
+  width: 90%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+/* ----------------------------------------------------------------
+Section styling 
+----------------------------------------------------------------*/
+.section {
+  margin-bottom: 40px;
+}
+
+/*----------------------------------------------------------------
+ Enable smooth scrolling when clicking links 
+----------------------------------------------------------------*/
+html {
+  scroll-behavior: smooth;
+}

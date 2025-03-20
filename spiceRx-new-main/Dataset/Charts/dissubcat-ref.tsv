@@ -1,0 +1,153 @@
+Disease sub-category	Positive references	Negative references
+Pathologic Processes	962.0	47.0
+Signs and Symptoms	819.0	85.0
+Metabolic Diseases	792.0	73.0
+Vascular Diseases	560.0	80.0
+Diabetes Mellitus	587.0	0.0
+Central Nervous System Diseases	490.0	31.0
+Neoplasms by Site	444.0	5.0
+Gastrointestinal Diseases	400.0	14.0
+Skin Diseases	298.0	106.0
+Neurologic Manifestations	300.0	49.0
+Liver Diseases	323.0	20.0
+Neurocognitive Disorders	307.0	0.0
+Neoplastic Processes	269.0	1.0
+Lung Diseases	239.0	28.0
+Hypersensitivity	135.0	127.0
+Drug-Related Side Effects and Adverse Reactions	221.0	24.0
+Poisoning	217.0	21.0
+Neurodegenerative Diseases	234.0	1.0
+Digestive System Neoplasms	218.0	2.0
+Female Urogenital Diseases	201.0	12.0
+Neoplasms by Histologic Type	187.0	0.0
+Respiratory Hypersensitivity	105.0	77.0
+Hematologic Diseases	154.0	19.0
+Heart Diseases	148.0	20.0
+Urologic Diseases	139.0	11.0
+Bronchial Diseases	111.0	26.0
+Joint Diseases	133.0	1.0
+Rheumatic Diseases	126.0	0.0
+Bacterial Infections	115.0	6.0
+Respiratory Tract Infections	115.0	3.0
+Genetic Diseases, Inborn	96.0	16.0
+Nutrition Disorders	103.0	2.0
+Infection	86.0	7.0
+Nose Diseases	30.0	57.0
+Mood Disorders	84.0	2.0
+Genital Diseases, Male	84.0	0.0
+Connective Tissue Diseases	80.0	0.0
+Neuromuscular Diseases	54.0	18.0
+Mouth Diseases	56.0	8.0
+Urogenital Neoplasms	58.0	0.0
+Respiration Disorders	45.0	11.0
+Protozoan Infections	56.0	0.0
+Anxiety Disorders	55.0	0.0
+Muscular Diseases	17.0	31.0
+Ear Diseases	44.0	0.0
+Pathological Conditions, Anatomical	37.0	5.0
+Autoimmune Diseases	40.0	0.0
+Mycoses	39.0	1.0
+Pancreatic Diseases	35.0	0.0
+Neurotoxicity Syndromes	27.0	5.0
+Helminthiasis	23.0	5.0
+Congenital Abnormalities	19.0	9.0
+Gonadal Disorders	25.0	2.0
+Endocrine Gland Neoplasms	26.0	0.0
+Bone Diseases	25.0	0.0
+Lymphatic Diseases	24.0	0.0
+Sleep Wake Disorders	20.0	0.0
+Respiratory Tract Neoplasms	18.0	2.0
+Pregnancy Complications	15.0	5.0
+Neurodevelopmental Disorders	16.0	1.0
+Biliary Tract Diseases	17.0	0.0
+Immunoproliferative Disorders	17.0	0.0
+Skin Diseases, Parasitic	15.0	1.0
+Lens Diseases	15.0	0.0
+Radiation Injuries	13.0	1.0
+Thyroid Diseases	11.0	2.0
+Hepatitis, Viral, Human	13.0	0.0
+DNA Virus Infections	13.0	0.0
+RNA Virus Infections	13.0	0.0
+Substance-Related Disorders	13.0	0.0
+Cysts	12.0	0.0
+Nervous System Malformations	7.0	4.0
+Tooth Diseases	11.0	0.0
+Feeding and Eating Disorders	10.0	1.0
+Infant, Newborn, Diseases	11.0	0.0
+Ocular Hypertension	10.0	0.0
+Precancerous Conditions	10.0	0.0
+Retinal Diseases	9.0	0.0
+Immunologic Deficiency Syndromes	8.0	1.0
+Conjunctival Diseases	4.0	4.0
+Fractures, Bone	8.0	0.0
+Neoplasms, Experimental	8.0	0.0
+Neoplastic Syndromes, Hereditary	7.0	0.0
+Trauma, Nervous System	6.0	1.0
+Liver Diseases, Parasitic	2.0	5.0
+Mammary Neoplasms, Animal	7.0	0.0
+Adrenal Gland Diseases	1.0	5.0
+Schizophrenia Spectrum and Other Psychotic Disorders	6.0	0.0
+Demyelinating Diseases	6.0	0.0
+Somatoform Disorders	5.0	0.0
+Neoplasms, Multiple Primary	5.0	0.0
+Thoracic Injuries	5.0	0.0
+Sexual Dysfunctions, Psychological	5.0	0.0
+Nervous System Neoplasms	5.0	0.0
+Asthma, Occupational	0.0	4.0
+Cranial Nerve Diseases	4.0	0.0
+Peritoneal Diseases	3.0	1.0
+Autoimmune Diseases of the Nervous System	4.0	0.0
+Arbovirus Infections	4.0	0.0
+Intestinal Diseases, Parasitic	4.0	0.0
+Pleural Diseases	4.0	0.0
+Vision Disorders	3.0	1.0
+Ocular Motility Disorders	3.0	0.0
+Urogenital Abnormalities	2.0	1.0
+Eye Hemorrhage	2.0	1.0
+Sexually Transmitted Diseases	3.0	0.0
+Spinal Cord Injuries	3.0	0.0
+Cattle Diseases	3.0	0.0
+Neurocutaneous Syndromes	3.0	0.0
+Tumor Virus Infections	3.0	0.0
+Corneal Diseases	2.0	1.0
+Hamartoma	3.0	0.0
+Sprains and Strains	3.0	0.0
+Personality Disorders	3.0	0.0
+Musculoskeletal Abnormalities	2.0	1.0
+Dermatitis, Occupational	0.0	3.0
+Paraneoplastic Syndromes	1.0	1.0
+Laryngeal Diseases	0.0	2.0
+Eye Infections	2.0	0.0
+Orbital Diseases	2.0	0.0
+Fetal Diseases	0.0	2.0
+Lacrimal Apparatus Diseases	1.0	1.0
+Optic Nerve Diseases	2.0	0.0
+Lung Diseases, Parasitic	2.0	0.0
+Cardiovascular Abnormalities	2.0	0.0
+Rodent Diseases	2.0	0.0
+Central Nervous System Viral Diseases	2.0	0.0
+Pharyngeal Diseases	2.0	0.0
+Eye Diseases, Hereditary	2.0	0.0
+Uveal Diseases	1.0	0.0
+Eye Manifestations	1.0	0.0
+Elimination Disorders	1.0	0.0
+Swine Diseases	1.0	0.0
+Parasitic Diseases, Animal	1.0	0.0
+Bites and Stings	1.0	0.0
+Bird Diseases	0.0	1.0
+Opportunistic Infections	1.0	0.0
+Parathyroid Diseases	0.0	1.0
+Cartilage Diseases	1.0	0.0
+Eye Abnormalities	1.0	0.0
+Wounds, Nonpenetrating	1.0	0.0
+Fish Diseases	1.0	0.0
+Central Nervous System Parasitic Infections	1.0	0.0
+Ocular Hypotension	1.0	0.0
+Soft Tissue Injuries	1.0	0.0
+Stomatognathic System Abnormalities	1.0	0.0
+Bipolar and Related Disorders	0.0	1.0
+Parasitemia	1.0	0.0
+Eye Neoplasms	1.0	0.0
+Pseudorabies	1.0	0.0
+Joint Dislocations	1.0	0.0
+Encephalitis, Viral	1.0	0.0
