@@ -1,0 +1,113 @@
+.search-card {
+  background: linear-gradient(135deg, #f8f4ff 0%, #e6e6fa 100%);
+  border-radius: 15px;
+  padding: 2rem;
+  box-shadow: 0 4px 15px rgba(147, 112, 219, 0.2);
+  border: 1px solid rgba(147, 112, 219, 0.3);
+  max-width: 400px;
+  width: 100%;
+}
+
+.tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.tab-btn {
+  flex: 1;
+  padding: 1rem 1.5rem!important;
+  border: 2px solid rgba(147, 112, 219, 0.3);
+  background: transparent;
+  color: #4a4a4a;
+  border-radius: 25px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.tab-btn:hover {
+  background: rgba(147, 112, 219, 0.1);
+}
+
+.tab-btn.active {
+  background: rgba(147, 112, 219, 0.3);
+  color: #4a4a4a;
+  border-color: rgba(147, 112, 219, 0.6);
+  box-shadow: 0 2px 8px rgba(147, 112, 219, 0.3);
+}
+
+.search-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.form-group label {
+  font-weight: 500;
+  color: #4a4a4a;
+  font-size: 0.9rem;
+}
+
+.form-select {
+  padding: 0.75rem;
+  border: 2px solid rgba(147, 112, 219, 0.3);
+  border-radius: 8px;
+  background: white;
+  color: #4a4a4a;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.form-select:focus {
+  outline: none;
+  border-color: rgba(147, 112, 219, 0.6);
+  box-shadow: 0 0 0 3px rgba(147, 112, 219, 0.1);
+}
+
+.form-textarea {
+  padding: 1rem;
+  border: 2px solid rgba(147, 112, 219, 0.3);
+  border-radius: 8px;
+  background: white;
+  color: #4a4a4a;
+  font-size: 0.9rem;
+  min-height: 120px;
+  resize: vertical;
+  transition: all 0.3s ease;
+}
+
+.form-textarea:focus {
+  outline: none;
+  border-color: rgba(147, 112, 219, 0.6);
+  box-shadow: 0 0 0 3px rgba(147, 112, 219, 0.1);
+}
+
+.search-btn {
+  background: linear-gradient(135deg, rgba(147, 112, 219, 0.8) 0%, rgba(216, 191, 216, 0.8) 100%);
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 25px;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 1rem;
+}
+
+.search-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(147, 112, 219, 0.4);
+}
+
+.search-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+} 

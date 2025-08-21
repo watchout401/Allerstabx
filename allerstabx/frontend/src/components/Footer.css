@@ -1,0 +1,129 @@
+/* FOOTER CONTAINER: Full Bleed + Overlap */
+.footer-container {
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  margin-top: 20px;
+
+  background-color: #F6F1FF; /* kept old footer color */
+  color: #233038; /* text color from old css */
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  text-align: center;
+  padding: 20px;
+
+  z-index: 9999;
+  box-sizing: border-box;
+}
+
+/* Inner Content Container (Centered) */
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Columns */
+.footer-left,
+.footer-center,
+.footer-right {
+  flex: 1;
+  margin: 10px;
+}
+
+/* Footer Text & Titles */
+.footer-title {
+  color: #233038;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.footer-description {
+  font-size: 16px;
+  margin-top: 10px;
+  text-align: left;
+  color: #233038;
+}
+
+.footer-contact-title {
+  font-weight: bold;
+  text-align: right;
+  color: #233038;
+}
+
+.footer-email {
+  margin: 10px 0;
+  text-align: right;
+  color: #233038;
+}
+
+/* Social Icons */
+.footer-icons {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+}
+
+.icon {
+  font-size: 24px;
+  color: #233038; /* original text color */
+  cursor: pointer;
+}
+
+.icon:hover {
+  opacity: 0.8;
+}
+
+/* License and Organization Links */
+.footer-license,
+.footer-license-img,
+.footer-org {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer-license a,
+.footer-org a {
+  color: #233038;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.footer-license a:hover,
+.footer-org a:hover {
+  text-decoration: underline;
+}
+
+.footer-license-img img {
+  max-width: 88px;
+  height: auto;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-left,
+  .footer-center,
+  .footer-right {
+    text-align: center;
+  }
+
+  .footer-icons {
+    justify-content: center;
+  }
+
+  .footer-contact-title,
+  .footer-email {
+    text-align: center;
+  }
+}

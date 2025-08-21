@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Builds
+frontend/dist/
+*.log
+
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+
+# Env files
+*.env
+backend/.env
+
+# OS / Editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# DB (default sqlite)
+*.db
+backend/allerstabx.db

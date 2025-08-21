@@ -1,0 +1,130 @@
+.site-header {
+  padding: 1.6rem 2rem !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
+  animation: slideDown 0.8s ease-out;
+}
+
+@keyframes slideDown {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.site-header::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 200px;
+  height: 100%;
+  z-index: 1;
+
+  background-image: url('/assets/brand_background.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-size: 120px 140px;
+  background-position: -1px -50px;
+  opacity: 0.2;
+
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+
+}
+
+.brand {
+  font-size: 1.2rem;
+  font-weight: 0;
+  color: #000000;
+  z-index: 1;
+  position: relative;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.main-nav {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: #000000 !important;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.main-nav a:hover {
+  background: #D3D3FB40;
+  transform: translateY(-1px);
+}
+
+
+
+.main-nav a.active::before {
+  background: #D3D3FB40;
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -8px;
+  right: -8px;
+  bottom: -2px;
+  border: 2px solid #7070BF60;
+  border-radius: 20px;
+  animation: pulse 3s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(147, 112, 219, 0.4);
+  }
+
+  70% {
+    box-shadow: 0 0 0 10px rgba(147, 112, 219, 0);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0 rgba(147, 112, 219, 0);
+  }
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  padding-right: 10px;
+}
+
+/* //////////////////////////CosyLab//////////////////////////////////// */
+
+.btn-cosylab {
+  background: #D3D3FB !important;
+  border: #D3D3FB;
+  color: #000000;
+  padding: 1rem 1.5rem;
+  border-radius: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.btn-cosylab:hover {
+  background: D3D3FB;
+  transform: translateY(-2px);
+}
